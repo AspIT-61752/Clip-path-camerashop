@@ -105,6 +105,11 @@ footer {
   position: relative;
 }
 
+.set-height-100p {
+  display: flex;
+  height: 100%;
+}
+
 .flex-column {
   display: flex;
   flex-direction: column;
